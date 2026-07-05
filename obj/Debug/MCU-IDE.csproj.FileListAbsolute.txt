@@ -1,0 +1,16 @@
+C:\Users\ede\source\repos\MultiArchIDE\bin\Debug\MCUKODYAZ.exe.config
+C:\Users\ede\source\repos\MultiArchIDE\bin\Debug\MCUKODYAZ.exe.manifest
+C:\Users\ede\source\repos\MultiArchIDE\bin\Debug\MCUKODYAZ.application
+C:\Users\ede\source\repos\MultiArchIDE\bin\Debug\MCUKODYAZ.exe
+C:\Users\ede\source\repos\MultiArchIDE\bin\Debug\MCUKODYAZ.pdb
+C:\Users\ede\source\repos\MultiArchIDE\obj\Debug\MCU-IDE.csproj.AssemblyReference.cache
+C:\Users\ede\source\repos\MultiArchIDE\obj\Debug\MultiArchIDE.Form1.resources
+C:\Users\ede\source\repos\MultiArchIDE\obj\Debug\MCUKODYAZ.Properties.Resources.resources
+C:\Users\ede\source\repos\MultiArchIDE\obj\Debug\MCU-IDE.csproj.GenerateResource.cache
+C:\Users\ede\source\repos\MultiArchIDE\obj\Debug\MCU-IDE.csproj.CoreCompileInputs.cache
+C:\Users\ede\source\repos\MultiArchIDE\obj\Debug\MCU-IDE.csproj.Fody.CopyLocal.cache
+C:\Users\ede\source\repos\MultiArchIDE\obj\Debug\MCU-IDE.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\ede\source\repos\MultiArchIDE\obj\Debug\MCUKODYAZ.exe.manifest
+C:\Users\ede\source\repos\MultiArchIDE\obj\Debug\MCUKODYAZ.application
+C:\Users\ede\source\repos\MultiArchIDE\obj\Debug\MCUKODYAZ.exe
+C:\Users\ede\source\repos\MultiArchIDE\obj\Debug\MCUKODYAZ.pdb

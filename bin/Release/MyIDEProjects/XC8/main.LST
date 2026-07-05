@@ -1,0 +1,36 @@
+MPASM 5.76                            MAIN.C   6-19-2026  22:44:08         PAGE  1
+
+
+LOC  OBJECT CODE     LINE SOURCE TEXT
+  VALUE
+
+Error[108]  : Illegal character (<)
+                      00001 ﻿#include <xc.h>
+Error[122]  : Illegal opcode (main)
+                      00002 void main(void) {
+Error[129]  : Expected (ENDW)
+                      00003     while(1) { }
+Error[129]  : Expected (END)
+MPASM 5.76                            MAIN.C   6-19-2026  22:44:08         PAGE  2
+
+
+SYMBOL TABLE
+  LABEL                             VALUE 
+
+__16F628                          00000001
+
+
+MEMORY USAGE MAP ('X' = Used,  '-' = Unused)
+
+
+All other memory blocks unused.
+
+Program Memory Words Used:     0
+Program Memory Words Free:  2048
+
+
+Errors   :     4
+Warnings :     0 reported,     0 suppressed
+Messages :     0 reported,     0 suppressed
+
+

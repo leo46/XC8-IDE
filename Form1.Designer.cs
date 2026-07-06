@@ -75,50 +75,50 @@
             // BtnSelectCompiler
             // 
             this.BtnSelectCompiler.Name = "BtnSelectCompiler";
-            this.BtnSelectCompiler.Size = new System.Drawing.Size(77, 22);
-            this.BtnSelectCompiler.Text = "Derleyici Seç";
+            this.BtnSelectCompiler.Size = new System.Drawing.Size(99, 22);
+            this.BtnSelectCompiler.Text = "TOLCHAIN PATH";
             this.BtnSelectCompiler.Click += new System.EventHandler(this.BtnSelectCompiler_Click);
             // 
             // BtnOpen
             // 
             this.BtnOpen.Name = "BtnOpen";
-            this.BtnOpen.Size = new System.Drawing.Size(60, 22);
-            this.BtnOpen.Text = "Dosya Aç";
+            this.BtnOpen.Size = new System.Drawing.Size(66, 22);
+            this.BtnOpen.Text = "OPEN FILE";
             this.BtnOpen.Click += new System.EventHandler(this.BtnOpen_Click);
             // 
             // BtnNewC
             // 
             this.BtnNewC.Name = "BtnNewC";
-            this.BtnNewC.Size = new System.Drawing.Size(44, 22);
-            this.BtnNewC.Text = "Yeni C";
+            this.BtnNewC.Size = new System.Drawing.Size(48, 22);
+            this.BtnNewC.Text = "NEW C";
             this.BtnNewC.Click += new System.EventHandler(this.BtnNewC_Click);
             // 
             // BtnNewH
             // 
             this.BtnNewH.Name = "BtnNewH";
-            this.BtnNewH.Size = new System.Drawing.Size(45, 22);
-            this.BtnNewH.Text = "Yeni H";
+            this.BtnNewH.Size = new System.Drawing.Size(49, 22);
+            this.BtnNewH.Text = "NEW H";
             this.BtnNewH.Click += new System.EventHandler(this.BtnNewH_Click);
             // 
             // BtnBuild
             // 
             this.BtnBuild.Name = "BtnBuild";
-            this.BtnBuild.Size = new System.Drawing.Size(38, 22);
-            this.BtnBuild.Text = "Derle";
+            this.BtnBuild.Size = new System.Drawing.Size(43, 22);
+            this.BtnBuild.Text = "BUILD";
             this.BtnBuild.Click += new System.EventHandler(this.BtnBuild_Click);
             // 
             // BtnDeleteFile
             // 
             this.BtnDeleteFile.Name = "BtnDeleteFile";
-            this.BtnDeleteFile.Size = new System.Drawing.Size(58, 22);
-            this.BtnDeleteFile.Text = "Dosya Sil";
+            this.BtnDeleteFile.Size = new System.Drawing.Size(73, 22);
+            this.BtnDeleteFile.Text = "FILE DELETE";
             this.BtnDeleteFile.Click += new System.EventHandler(this.BtnDeleteFile_Click);
             // 
             // help
             // 
             this.help.Name = "help";
-            this.help.Size = new System.Drawing.Size(48, 22);
-            this.help.Text = "Yardım";
+            this.help.Size = new System.Drawing.Size(39, 22);
+            this.help.Text = "HELP";
             this.help.Click += new System.EventHandler(this.help_Click);
             // 
             // ComboFontSize

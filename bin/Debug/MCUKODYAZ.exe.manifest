@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MCUKODYAZ.exe" size="120720">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MCUKODYAZ.exe" size="125840">
       <assemblyIdentity name="MCUKODYAZ" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ySjSrTZau0ThJIJMov7ZBPUoHVHqRGX7XMIg91j/dZM=</dsig:DigestValue>
+        <dsig:DigestValue>VDU/Xt0/nZzGBQYDKtDHsxNrAoKPzxLG2qjGI5OqnXM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
